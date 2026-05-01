@@ -1,4 +1,4 @@
-<img src="/img/icon.jpg" width="100%" alt="Samehadaku Logo">
+<img src="/img/icon.png" width="100%" alt="Samehadaku Logo">
 
 ---
 
